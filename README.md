@@ -17,3 +17,4 @@ A collection of detailed guides explaining how every feature in the Whatsupp Clo
 | [React Concepts](react-concepts-explanation.md) | Every React hook and pattern used and why |
 | [Axios Explanation](axios-explanation.md) | How the frontend talks to the backend |
 | [React Router DOM](react-router-explanation.md) | Frontend navigation and routing |
+| [Unread Messages & Auto-Scroll](unread-messages-explanation.md) | Unread badge system and auto-scroll to latest message |
